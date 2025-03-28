@@ -3,8 +3,8 @@
 **A memory-efficient inference technique for large neural networks on low-spec devices.**
 
 
-[Download Full Paper (PDF)](./assets/SubLayer_Streaming.pdf)
 
+[▶ Download Full Paper (PDF)](./assets/SubLayer_Streaming.pdf)
 ## Overview
 
 As AI models continue to scale, running them on memory-constrained devices like mobile phones or low-end laptops becomes almost impossible.  
