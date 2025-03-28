@@ -3,7 +3,7 @@
 **A memory-efficient inference technique for large neural networks on low-spec devices.**
 
 
-[**▶ Download Full Paper (PDF)**](./assets/SubLayer Streaming Execution- A Memory-Efficient Inference Technique for Large Neural Networks on Low-Spec Devices.pdf)
+[**▶ Download Full Paper (PDF)**](./assets/SubLayer Streaming Execution- A Memory-Efficient Inference Technique for Large Neural Networks on Low-Spec Devices .pdf0
 
 
 ## Overview
