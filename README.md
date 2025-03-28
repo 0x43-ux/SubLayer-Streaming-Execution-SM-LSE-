@@ -2,7 +2,9 @@
 
 **A memory-efficient inference technique for large neural networks on low-spec devices.**
 
-> Run massive models like GPT or BERT on devices with as little as 8GB of RAM—without compression or quantization.
+
+[**▶ Download Full Paper (PDF)**](./assets/SubLayer Streaming Execution- A Memory-Efficient Inference Technique for Large Neural Networks on Low-Spec Devices.pdf)
+
 
 ## Overview
 
@@ -39,3 +41,5 @@ This project proposes **SubLayer Streaming Execution (SM-LSE)**—a technique th
    - Load two sublayers at once (sliding window)
    - Balanced: ~322MB memory, 8.42s runtime
    - **Recommended** for real-world low-RAM inference
+  
+   - 
